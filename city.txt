@@ -1,0 +1,12 @@
+Jersey City, New York
+Harrisburg, Pittsburgh
+Pittsburgh, Charlotte
+Atlanta, Miami
+Nashville, New Orleans
+Houston, Dallas
+Dallas, Chicago
+Chicago, Detroit
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
